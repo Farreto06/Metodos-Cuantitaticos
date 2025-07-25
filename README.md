@@ -1,5 +1,3 @@
-# Metodos-Cuantitaticos
-
 # Tarea 4 - Métodos Cuantitativos: Programación Entera
 
 ## Descripción
